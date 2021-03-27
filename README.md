@@ -1,2 +1,1 @@
-# hello-world
-An initial repo
+Hi, I am Kara. I'm nothing special, just another soul roaming around and trying to find her place in the world while trying to make a change through her own little ways. I am improving my coding and other skills so that I could share it to others as well and hopefully could provide opportunities someday that could help others.
